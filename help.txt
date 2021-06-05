@@ -1,0 +1,25 @@
+data-src-mini
+data-src-xsmall
+data-src-small
+data-src-medium
+data-src-large
+
+=========================================
+
+Dentro da Tag Picture
+
+<source media="(max.width:520px)" srcset="imagem.jpg>
+<source media="(max.width:800px)" srcset="imagem.jpg>
+<img src="defaultImage.jpg" alt=""> /*Aqui fica a imagem maiol, defaul*/
+
+
+
+
+
+
+
+
+
+
+
+
